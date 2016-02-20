@@ -6,10 +6,10 @@ Organização da Informação - HTML (Linguaguem de Hipertexto)
 Apresentação da informação / Formatação - CSS (Folhas de Estilos)
 Comportamento e Experiência - JavaScript (Linguagem de Scripts)
 
-SEO / Tráfego orgânico
-NodeJS
-Fiat Toro
-HTML ENTITIES
+- SEO / Tráfego orgânico
+- NodeJS
+- Fiat Toro
+- HTML ENTITIES
 
 !Doctype html - Declaração para o browser entender qual linguagem vai ser renderizada. 
 
