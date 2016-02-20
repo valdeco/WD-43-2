@@ -25,7 +25,7 @@ ISO -88591 (WINDOWS)
 UTF-8 (MAC ou UBUNTU)
 
 --
-<!--<link rel="stylesheet" type="text/css" href="estilo.css"> -->
+link rel="stylesheet" type="text/css" href="estilo.css"
 rel = relation 
 href= hipertext reference
 
