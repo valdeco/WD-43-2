@@ -18,7 +18,7 @@ Meta informação ou Meta Tags - Usados para configurar a forma como o sua infor
 <meta charset="UTF-8">  Qual o mapa de caracteres o browser irá buscar. 
 <title>.....</title> - Nome do site que será apresentado.
 
-<h1> ao <h6> - Nivel de títulos (quanto menor o número - maior será o seu tamanho), porém, sua ordem está mais ligada a semântica do que com tamanho em si.
+h1 ao h6 - Nivel de títulos (quanto menor o número - maior será o seu tamanho), porém, sua ordem está mais ligada a semântica do que com tamanho em si.
 
 Enconding
 ISO -88591 (WINDOWS)
