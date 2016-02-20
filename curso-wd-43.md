@@ -11,16 +11,16 @@ NodeJS
 Fiat Toro
 HTML ENTITIES
 
-<!Doctype html> - Declaração para o browser entender qual linguagem vai ser renderizada. 
+!Doctype html - Declaração para o browser entender qual linguagem vai ser renderizada. 
 
 Meta informação ou Meta Tags - Usados para configurar a forma como o sua informação ser indexada, renderizada etc.
 
-<meta charset="UTF-8">  Qual o mapa de caracteres o browser irá buscar. 
-<title>.....</title> - Nome do site que será apresentado.
+meta charset="UTF-8"  Qual o mapa de caracteres o browser irá buscar. 
+title - Nome do site que será apresentado.
 
 h1 ao h6 - Nivel de títulos (quanto menor o número - maior será o seu tamanho), porém, sua ordem está mais ligada a semântica do que com tamanho em si.
 
-Enconding
+<h6>Enconding
 ISO -88591 (WINDOWS)
 UTF-8 (MAC ou UBUNTU)
 
