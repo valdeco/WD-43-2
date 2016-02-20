@@ -33,6 +33,6 @@ href= hipertext reference
 -----
 
 Estudo Semântico
-<h1> Maior significado semântico 
+h1 - Maior significado semântico 
 
 
