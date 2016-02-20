@@ -1,6 +1,6 @@
 <h1>Aula 1</h1> 
 
-Front - End é divido em 3 camadas:
+<h2>Front - End é divido em 3 camadas:</h2>
 
 Organização da Informação - HTML (Linguaguem de Hipertexto)
 Apresentação da informação / Formatação - CSS (Folhas de Estilos)
