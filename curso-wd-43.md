@@ -20,12 +20,12 @@ title - Nome do site que será apresentado.
 
 h1 ao h6 - Nivel de títulos (quanto menor o número - maior será o seu tamanho), porém, sua ordem está mais ligada a semântica do que com tamanho em si.
 
-<h6>Enconding
+<h6>Enconding</h6>
 ISO -88591 (WINDOWS)
 UTF-8 (MAC ou UBUNTU)
 
 --
-<link rel="stylesheet" type="text/css" href="estilo.css"> - 
+<!--<link rel="stylesheet" type="text/css" href="estilo.css"> -->
 rel = relation 
 href= hipertext reference
 
